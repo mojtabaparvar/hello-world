@@ -3,4 +3,4 @@ first
 saloom
 khodafez
 saloom
-man omidam
+man omidam va omid khaham mand
